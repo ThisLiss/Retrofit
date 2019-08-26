@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RetrofitFin</string>
+    <string name="text_status_open">Открыта</string>
+    <string name="text_status_closed">Закрыта</string>
+    <string name="text_status_in_progress">Занята</string>
+    <string name="save">Save</string>
+    <string name="toast_title_fail">Ой-ой что-то не так</string>
+    <string name="toast_message_fail">Отсутствует сетевое подключение</string>
+    <string name="toast_in_the_development">Извините, данный функционал еще в разработке</string>
+    <string name="btn_fail_ok">Ладно =(</string>
+    <string name="text_name">Имя:</string>
+    <string name="text_second_name">Фамилия:</string>
+    <string name="btn_try">Повторить</string>
+    <string name="btn_lets_go">Приступить</string>
+</resources>
